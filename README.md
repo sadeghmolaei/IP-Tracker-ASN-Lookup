@@ -53,7 +53,7 @@ Before running the scripts, ensure you have the following installed:
 ## 🚀 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/sadeghmolaei/Iran-IP-List-Script.git
+git clone https://github.com/sadeghmolaei/IP-Tracker-ASN-Lookup.git
 cd ipfinderx
 ```
 
